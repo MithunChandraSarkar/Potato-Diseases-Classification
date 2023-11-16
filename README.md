@@ -29,5 +29,5 @@ The project uses a dataset of labeled potato disease images, which can be found 
 This is a completed project for my academic course.
 
 **Contact Information:**
-For questions or collaboration inquiries, you can reach me at [mahbubhasanmht@gmail.com].
+For questions or collaboration inquiries, you can reach me at [mithuniit.bsse@gmail.com].
 
